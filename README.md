@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunima Singh</h1>
 <h3 align="center">A quick learner and an explorer!</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4716svu8id8rfoprmtdpt4jb8kjzazqetirsev3qaj&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4716svu8id8rfoprmtdpt4jb8kjzazqetirsev3qaj&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoumpy&label=Profile%20views&color=0e75b6&style=flat" alt="shoumpy" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision and DSA**
